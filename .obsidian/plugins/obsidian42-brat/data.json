@@ -1,0 +1,29 @@
+{
+  "pluginList": [
+    "Jareika/zoom-map",
+    "Jareika/obsidian-ttrpg-soundboard"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Jareika/zoom-map",
+      "version": ""
+    },
+    {
+      "repo": "Jareika/obsidian-ttrpg-soundboard",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

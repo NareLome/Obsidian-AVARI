@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "rootFolder": "DnD/7. Музыка",
+    "includeRootFiles": false,
+    "folders": [
+      "TTRPG Sounds"
+    ],
+    "extensions": [
+      "mp3",
+      "ogg",
+      "wav",
+      "m4a",
+      "flac"
+    ],
+    "defaultFadeInMs": 100,
+    "defaultFadeOutMs": 1000,
+    "allowOverlap": true,
+    "masterVolume": 1,
+    "mediaElementThresholdMB": 25,
+    "ambienceVolume": 1,
+    "simpleView": true,
+    "folderViewModes": {},
+    "tileHeightPx": 100,
+    "noteIconSizePx": 40,
+    "toolbarFourFolders": true,
+    "maxAudioCacheMB": 512,
+    "thumbnailFolderEnabled": false,
+    "thumbnailFolderPath": "",
+    "arrangementEnabled": false,
+    "arrangementFirst": "default",
+    "arrangementSecond": "default",
+    "arrangementThird": "default",
+    "style": {
+      "sounds": {
+        "cardBg": "",
+        "cardBorder": "",
+        "tileBorder": "",
+        "buttonBg": "",
+        "buttonBorder": "",
+        "buttonColor": ""
+      },
+      "ambience": {
+        "cardBg": "",
+        "cardBorder": "",
+        "tileBorder": "",
+        "buttonBg": "",
+        "buttonBorder": "",
+        "buttonColor": ""
+      },
+      "playlists": {
+        "cardBg": "",
+        "cardBorder": "",
+        "tileBorder": "",
+        "buttonBg": "",
+        "buttonBorder": "",
+        "buttonColor": ""
+      }
+    }
+  },
+  "soundPrefs": {
+    "DnD/7. Музыка/Звуки/Дождь.mp3": {
+      "volume": 0.21
+    },
+    "DnD/7. Музыка/Звуки/Костер.mp3": {
+      "volume": 0.13
+    },
+    "DnD/7. Музыка/Пустыня/01_[ФОН]/Фон 1 Hans Zimmer - House Atreides (hitmos.fm).mp3": {}
+  },
+  "playlistPrefs": {
+    "DnD/7. Музыка/[ПУСТЫНЯ]/01_[ФОН]": {
+      "volume": 0.17,
+      "loop": false
+    },
+    "DnD/7. Музыка/[ПУСТЫНЯ]/02_[ИССЛЕДОВАНИЕ]": {},
+    "DnD/7. Музыка/Фоновая/[ПУСТЫНЯ]/01_[ФОН]": {
+      "volume": 0.2
+    },
+    "DnD/7. Музыка/Фоновая/[ПУСТЫНЯ]": {},
+    "DnD/7. Музыка/Пустыня/01_[ФОН]": {
+      "volume": 0.22,
+      "loop": true,
+      "shuffle": true
+    },
+    "DnD/7. Музыка/Пустыня/03_[НАПРЯЖЕННЫЙ]": {
+      "volume": 1,
+      "loop": false,
+      "shuffle": true
+    },
+    "DnD/7. Музыка/Пустыня/04_[БОЙ]": {
+      "volume": 1,
+      "loop": false,
+      "shuffle": true
+    },
+    "DnD/7. Музыка/Пустыня/05_[БОСС]": {
+      "volume": 1,
+      "loop": false,
+      "shuffle": true
+    },
+    "DnD/7. Музыка/Пустыня/02_[ИССЛЕДОВАНИЕ]": {
+      "volume": 1,
+      "loop": false,
+      "shuffle": true
+    }
+  },
+  "durations": {
+    "DnD/7. Музыка/Звуки/Дождь.mp3": {
+      "seconds": 164.702041,
+      "mtime": 1775537604112,
+      "size": 1317824
+    },
+    "DnD/7. Музыка/Звуки/Костер.mp3": {
+      "seconds": 120.106667,
+      "mtime": 1775537637217,
+      "size": 1449230
+    }
+  }
+}

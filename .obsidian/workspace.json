@@ -29,7 +29,7 @@
       {
         "id": "954e25dbce3ebf29",
         "type": "tabs",
-        "dimension": 81.3780260707635,
+        "dimension": 66.26281453867661,
         "children": [
           {
             "id": "8e9bab5c91e992c7",
@@ -76,7 +76,7 @@
       {
         "id": "21d447dcdea51b98",
         "type": "tabs",
-        "dimension": 18.6219739292365,
+        "dimension": 33.73718546132339,
         "children": [
           {
             "id": "1fe733afa8975009",
@@ -106,7 +106,7 @@
         "dimension": 33.333333333333336,
         "children": [
           {
-            "id": "bd0c093359021101",
+            "id": "03562367de96f161",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -132,8 +132,8 @@
                   "displayWeather": true,
                   "location": "ID_a98bdbb81a69"
                 },
-                "id": "ID_08ea3be91bf9",
-                "child": "ID_789af899bb7a"
+                "id": "ID_1818fbcaf849",
+                "child": "ID_c8397a0a7879"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -150,6 +150,20 @@
               "pinned": true,
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c35449276d2c9063",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "ttrpg-soundboard-view",
+              "state": {
+                "activeSlot": "A"
+              },
+              "pinned": true,
+              "icon": "music",
+              "title": "Soundboard"
             }
           },
           {
@@ -197,34 +211,23 @@
             }
           },
           {
-            "id": "62c562e8deab1c0e",
+            "id": "b5596dd291be37ef",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "custom-frames-ttg-(2024)",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-book-marked",
-              "title": "TTG (2024)"
-            }
-          },
-          {
-            "id": "2217d0e874817515",
-            "type": "leaf",
-            "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
           },
           {
-            "id": "38d9e49947ec2789",
+            "id": "606daa6522807d3b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,25 +237,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 0.1.1 Физическая Карта мира"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "9e7a7b9f74007e60",
+            "id": "81c1adcdb39b2324",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 0.1.1 Физическая Карта мира"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "b1e52ab9cd3256bb",
+            "id": "86d666a9cd767f96",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -267,7 +269,7 @@
             }
           },
           {
-            "id": "5a304093dc758d1a",
+            "id": "02db96852590d697",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -281,22 +283,21 @@
             }
           },
           {
-            "id": "64040cba85248c48",
+            "id": "854abd1c4fbefeac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 0.1.1 Физическая Карта мира"
+              "title": "Структура"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "f5c05b73bbb14525",
@@ -310,29 +311,41 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_3bf98ad96929",
+                "creatureId": "ID_9bfb0acb09e9",
                 "creatureName": "Чистокровный юань-ти"
               },
               "pinned": true,
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "3f18dfd5541de6c3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "ttrpg-soundboard-nowplaying",
+              "state": {},
+              "pinned": true,
+              "icon": "music-2",
+              "title": "Now playing"
+            }
           }
         ]
       },
       {
-        "id": "608561889ad617a7",
+        "id": "b6b12b185854eb62",
         "type": "tabs",
         "dimension": 17.92114695340502,
         "children": [
           {
-            "id": "7d1dd98dca6f2013",
+            "id": "dadb9d281f110a7b",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "id": "ID_789af899bb7a",
-                "parent": "ID_08ea3be91bf9"
+                "id": "ID_c8397a0a7879",
+                "parent": "ID_1818fbcaf849"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -363,37 +376,46 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "iconic:Открыть свод правил": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "ttrpg-soundboard:Open soundboard": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b5596dd291be37ef",
   "lastOpenFiles": [
+    "Спасбросок.md",
+    "DnD/7. Музыка/Звуки/Дождь.mp3",
+    "DnD/4. Бестиарий/Гуманоид/Чистокровный юань-ти.md",
+    "DnD/4. Бестиарий/Гуманоид/Акулье отродье.md",
+    "DnD/7. Музыка/Звуки/Костер.mp3",
+    "DnD/7. Музыка/Звуки",
+    "DnD/7. Музыка/Тропики/05_[БОСС]/Motoi Sakuraba - Sinh, the Slumbering Dragon (Extended) (hitmos.fm).mp3",
+    "DnD/7. Музыка/Тропики/05_[БОСС]/Kō Ōtani - The Opened Way (OST из _Shadow of the Colossus_) (hitmos.fm).mp3",
+    "DnD/7. Музыка/Тропики/05_[БОСС]/Bear McCreary - Magni and Modi (hitmos.fm).mp3",
+    "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight Julie Elven - Will Against Will (hitmos.fm).mp3",
+    "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight - The Spreading Eclipse (hitmos.fm).mp3",
+    "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight - Planned Obsolescence (hitmos.fm).mp3",
+    "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight - Little Ones (hitmos.fm).mp3",
+    "DnD/Шаблоны (Templates)/Вставить трек.md",
+    "DnD/7. Музыка/[ПУСТЫНЯ]/01_[ФОН]/Фон 1 Hans Zimmer - House Atreides (hitmos.fm).jpg",
+    "DnD/7. Музыка/[ПУСТЫНЯ]/01_[ФОН]/01_[ФОН].jpg",
+    "DnD/7. Музыка/[ПУСТЫНЯ]/01_[ФОН].jpg",
+    "DnD/7. Музыка/[ПУСТЫНЯ]/e5091761fa86b225581597e4e761d81e.jpg",
     "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "Новый текстовый документ.txt",
     "DnD/6. Приключения/Компейны/🌊 Шепот семи оков/Глава 1. Первый источник/Часть 3. Первый источник (Храм).md",
     "DnD/6. Приключения/Компейны/🌊 Шепот семи оков/Глава 1. Первый источник/Часть 0. Вступление.md",
     "Obsidian-AVARI/README.md",
-    "Obsidian-AVARI",
-    "TEST",
-    "TEST",
     "Токен для github-a.md",
     "Легкое.md",
     "Замедляющее.md",
     "TEST/Synkeed.md",
     "TEST/README.md",
-    "TEST/Synk",
-    "Спасбросок.md",
-    "synk",
     "synk/Synk.md",
     "Dungeons and Dragons (AVARI tales)/Файлы/TEST/README.md",
     "SYNC/Test Sync.md",
-    "SYNC",
-    "Dungeons and Dragons (AVARI tales)/Файлы/TEST",
-    "DnD/1. Правила и Предметы/Автоматизация/Предметы.base",
     "DnD/1. Правила и Предметы/Автоматизация/Получить случайный предмет.md",
     "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Боевой посох.md",
     "DnD/1. Правила и Предметы/Homebrew.md",
@@ -401,20 +423,11 @@
     "DnD/1. Правила и Предметы/Автоматизация/Калькулятор скорости передвижения.md",
     "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Случайный предмет.md",
     "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Дубинка.md",
-    "Опрокидывающее.md",
-    "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Булава.md",
     "DnD/Файлы/Дубинка.jpg",
-    "Ослабляющее.md",
     "DnD/Файлы/Булава.jpg",
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/🛡️ Предметы/Галерея предметов.md",
-    "Галерея предметов.base",
     "DnD/Файлы/Боевой посох.jpg",
     "DnD/Файлы/Карта мира AVARI (ПОЛИТИКА).jpg",
     "DnD/Файлы/Гигантская змея.jpg",
-    "DnD/Файлы/Источник.jpg",
-    "DnD/Файлы/Гултсар (Карта).jpg",
-    "DnD/Файлы/Удав.jpg",
-    "DnD/Файлы/Чистокровный Юань-ти.jpg",
-    "Файлы/Гултсар.jpg"
+    "DnD/Файлы/Источник.jpg"
   ]
 }

@@ -35,6 +35,66 @@
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
+    },
+    "DnD/1. Правила и Предметы": {
+      "icon": "📜",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/2. Ссылки": {
+      "icon": "🔗",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/3. Листы персонажей": {
+      "icon": "🧙",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/4. Бестиарий": {
+      "icon": "🐻",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/5. Информация о мире": {
+      "icon": "ℹ️",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/6. Приключения": {
+      "icon": "🐲",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/7. Музыка": {
+      "icon": "🎵",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/История боя": {
+      "icon": "lucide-history",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/Файлы": {
+      "icon": "lucide-file",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/Шаблоны (Templates)": {
+      "icon": "lucide-book-template",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
     }
   },
   "bookmarkIcons": {},
