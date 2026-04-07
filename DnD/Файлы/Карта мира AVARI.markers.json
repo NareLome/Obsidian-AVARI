@@ -31,10 +31,10 @@
       "y": 0.6266117676449396,
       "layer": "default",
       "link": "Гултсар",
-      "iconKey": "pinRed",
+      "iconKey": "Город",
       "tooltip": "Население ~7000",
       "tooltipAlwaysOn": true,
-      "minZoom": 1
+      "minZoom": 1.5
     },
     {
       "type": "pin",
@@ -43,7 +43,7 @@
       "y": 0.5478410521183229,
       "layer": "default",
       "link": "Эттерия",
-      "iconKey": "pinRed",
+      "iconKey": "Государство",
       "tooltip": "Эттерия",
       "minZoom": 0.01,
       "maxZoom": 0.4,
@@ -52,14 +52,14 @@
     {
       "type": "pin",
       "id": "marker_w5dixl",
-      "x": 0.26933620287348986,
-      "y": 0.5853433705646774,
+      "x": 0.2665446497439932,
+      "y": 0.6225635950694012,
       "layer": "default",
       "link": "Восточное побережье Этерии",
-      "iconKey": "pinRed",
+      "iconKey": "Регион",
       "tooltip": "",
       "minZoom": 0.4,
-      "maxZoom": 1
+      "maxZoom": 1.5
     },
     {
       "type": "pin",
@@ -68,7 +68,7 @@
       "y": 0.2709564120852534,
       "layer": "default",
       "link": "Анаргон",
-      "iconKey": "pinRed",
+      "iconKey": "Государство",
       "tooltip": "Анаргон",
       "minZoom": 0.01,
       "maxZoom": 0.4,
@@ -81,7 +81,7 @@
       "y": 0.8606011130391468,
       "layer": "default",
       "link": "Бронтенар",
-      "iconKey": "pinRed",
+      "iconKey": "Государство",
       "tooltip": "Бронтенар",
       "minZoom": 0.01,
       "maxZoom": 0.4,
@@ -94,7 +94,7 @@
       "y": 0.6653779158861607,
       "layer": "default",
       "link": "Вардария",
-      "iconKey": "pinRed",
+      "iconKey": "Государство",
       "tooltip": "Вардария",
       "minZoom": 0.01,
       "maxZoom": 0.4,
@@ -107,7 +107,7 @@
       "y": 0.868262067391148,
       "layer": "default",
       "link": "Иксион",
-      "iconKey": "pinRed",
+      "iconKey": "Государство",
       "tooltip": "Иксион",
       "minZoom": 0.01,
       "maxZoom": 0.4,
@@ -120,7 +120,7 @@
       "y": 0.4934932260313663,
       "layer": "default",
       "link": "Росславия",
-      "iconKey": "pinRed",
+      "iconKey": "Государство",
       "tooltip": "Росславия",
       "minZoom": 0.01,
       "maxZoom": 0.4,
@@ -159,7 +159,7 @@
       "visible": false
     }
   ],
-  "activeBase": "DnD/Файлы/Карта мира AVARI.jpg",
+  "activeBase": "DnD/Файлы/Регион Гултсара.jpg",
   "measurement": {
     "scales": {
       "DnD/Файлы/Карта мира AVARI.jpg": 1207.0080000000044,

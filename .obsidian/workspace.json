@@ -300,7 +300,8 @@
               "title": "Структура"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "f5c05b73bbb14525",
@@ -388,8 +389,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8e9bab5c91e992c7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "DnD/Иконки для карт/partypings",
+    "DnD/0. Карты/Карта мира 2.0.md",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/solid/z.svg",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/solid/yin-yang.svg",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/solid/yen-sign.svg",
@@ -400,7 +403,6 @@
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/solid/x-ray.svg",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/solid/wrench.svg",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/solid/worm.svg",
-    "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/solid/won-sign.svg",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/webfonts/fa-v4compatibility.woff2",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/webfonts/fa-v4compatibility.ttf",
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/webfonts/fa-solid-900.woff2",
@@ -413,7 +415,6 @@
     "DnD/Иконки для карт/fontawesome-free-6.4.0-web/svgs/regular",
     "DnD/Иконки для карт/rpg-awesome-raw-master/README.md",
     "DnD/1. Правила и Предметы/Автоматизация/Калькулятор скорости передвижения.md",
-    "DnD/0. Карты/Карта мира 2.0.md",
     "DnD/0. Карты/0.2 Карта Региона/0.2.1 Карта восточного побережья Этерии.md",
     "DnD/5. Информация о мире/1. Государства/Эттерия.md",
     "Этерия.md",
