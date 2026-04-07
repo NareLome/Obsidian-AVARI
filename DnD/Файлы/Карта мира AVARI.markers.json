@@ -44,9 +44,10 @@
       "layer": "default",
       "link": "Эттерия",
       "iconKey": "pinRed",
-      "tooltip": "",
+      "tooltip": "Эттерия",
       "minZoom": 0.01,
-      "maxZoom": 0.4
+      "maxZoom": 0.4,
+      "tooltipAlwaysOn": true
     },
     {
       "type": "pin",
@@ -68,9 +69,10 @@
       "layer": "default",
       "link": "Анаргон",
       "iconKey": "pinRed",
-      "tooltip": "",
+      "tooltip": "Анаргон",
       "minZoom": 0.01,
-      "maxZoom": 0.4
+      "maxZoom": 0.4,
+      "tooltipAlwaysOn": true
     },
     {
       "type": "pin",
@@ -80,9 +82,10 @@
       "layer": "default",
       "link": "Бронтенар",
       "iconKey": "pinRed",
-      "tooltip": "",
+      "tooltip": "Бронтенар",
       "minZoom": 0.01,
-      "maxZoom": 0.4
+      "maxZoom": 0.4,
+      "tooltipAlwaysOn": true
     },
     {
       "type": "pin",
@@ -92,9 +95,10 @@
       "layer": "default",
       "link": "Вардария",
       "iconKey": "pinRed",
-      "tooltip": "",
+      "tooltip": "Вардария",
       "minZoom": 0.01,
-      "maxZoom": 0.4
+      "maxZoom": 0.4,
+      "tooltipAlwaysOn": true
     },
     {
       "type": "pin",
@@ -104,9 +108,10 @@
       "layer": "default",
       "link": "Иксион",
       "iconKey": "pinRed",
-      "tooltip": "",
+      "tooltip": "Иксион",
       "minZoom": 0.01,
-      "maxZoom": 0.4
+      "maxZoom": 0.4,
+      "tooltipAlwaysOn": true
     },
     {
       "type": "pin",
@@ -116,9 +121,10 @@
       "layer": "default",
       "link": "Росславия",
       "iconKey": "pinRed",
-      "tooltip": "",
+      "tooltip": "Росславия",
       "minZoom": 0.01,
-      "maxZoom": 0.4
+      "maxZoom": 0.4,
+      "tooltipAlwaysOn": true
     }
   ],
   "bases": [
@@ -141,6 +147,10 @@
     {
       "path": "DnD/Файлы/Карта мира AVARI (ТЕКТОНИЧЕСКАЯ).jpg",
       "name": "Тектоническая карта мира"
+    },
+    {
+      "path": "DnD/Файлы/Регион Гултсара.jpg",
+      "name": "Восточное побережье Этерии"
     }
   ],
   "overlays": [
@@ -151,17 +161,98 @@
   ],
   "activeBase": "DnD/Файлы/Карта мира AVARI.jpg",
   "measurement": {
-    "scales": {},
-    "customUnitPxPerUnit": {},
-    "travelTimePresetIds": [],
-    "travelDaysEnabled": false,
-    "displayUnit": "km"
+    "scales": {
+      "DnD/Файлы/Карта мира AVARI.jpg": 1207.0080000000044,
+      "DnD/Файлы/Регион Гултсара.jpg": 87.26326543147816
+    },
+    "customUnitPxPerUnit": {
+      "DnD/Файлы/Карта мира AVARI.jpg": {
+        "cu-95ugxw": 31.602531544165917
+      },
+      "DnD/Файлы/Регион Гултсара.jpg": {
+        "cu-95ugxw": 442.12046071529926
+      }
+    },
+    "travelTimePresetIds": [
+      "tt-zzzclw",
+      "tt-npc11e"
+    ],
+    "travelDaysEnabled": true,
+    "displayUnit": "custom",
+    "metersPerPixel": 87.26326543147816,
+    "customUnitId": "cu-95ugxw"
   },
   "pinSizeOverrides": {},
   "grids": [],
   "panClamp": true,
-  "drawLayers": [],
-  "drawings": [],
+  "drawLayers": [
+    {
+      "id": "draw_lkgx5d",
+      "name": "Draw",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "drawings": [
+    {
+      "id": "draw_mlkoql",
+      "layerId": "draw_lkgx5d",
+      "kind": "polyline",
+      "visible": true,
+      "polyline": [
+        {
+          "x": 0.26900155385335284,
+          "y": 0.6239198953134042
+        },
+        {
+          "x": 0.26275155385335286,
+          "y": 0.6050310064245153
+        },
+        {
+          "x": 0.26004322052001955,
+          "y": 0.5772532286467376
+        },
+        {
+          "x": 0.2626692119002798,
+          "y": 0.5520075340130182
+        },
+        {
+          "x": 0.2636516901048631,
+          "y": 0.5358512257598701
+        },
+        {
+          "x": 0.25963600833002726,
+          "y": 0.5235967113209476
+        },
+        {
+          "x": 0.2489602791633606,
+          "y": 0.5227833224320589
+        },
+        {
+          "x": 0.24362241458002729,
+          "y": 0.5257657483579847
+        },
+        {
+          "x": 0.23675944583002728,
+          "y": 0.5200720261357625
+        },
+        {
+          "x": 0.2324891541633606,
+          "y": 0.5195297668765032
+        },
+        {
+          "x": 0.22913392499669394,
+          "y": 0.5225121928024292
+        }
+      ],
+      "style": {
+        "strokeColor": "#8cd9a4",
+        "strokeWidth": 2,
+        "arrowEnd": true,
+        "distanceLabel": true
+      }
+    }
+  ],
   "secondScreen": {
     "showGrids": true
   },

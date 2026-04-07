@@ -1,0 +1,205 @@
+{
+  "icons": [
+    {
+      "key": "map-pin-3",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20320%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M16%20144a144%20144%200%201%201%20288%200A144%20144%200%201%201%2016%20144zM160%2080c8.8%200%2016-7.2%2016-16s-7.2-16-16-16c-53%200-96%2043-96%2096c0%208.8%207.2%2016%2016%2016s16-7.2%2016-16c0-35.3%2028.7-64%2064-64zM128%20480V317.1c10.4%201.9%2021.1%202.9%2032%202.9s21.6-1%2032-2.9V480c0%2017.7-14.3%2032-32%2032s-32-14.3-32-32z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "map",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20576%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M565.6%2036.2C572.1%2040.7%20576%2048.1%20576%2056V392c0%2010-6.2%2018.9-15.5%2022.4l-168%2064c-5.2%202-10.9%202.1-16.1%20.3L192.5%20417.5l-160%2061c-7.4%202.8-15.7%201.8-22.2-2.7S0%20463.9%200%20456V120c0-10%206.1-18.9%2015.5-22.4l168-64c5.2-2%2010.9-2.1%2016.1-.3L383.5%2094.5l160-61c7.4-2.8%2015.7-1.8%2022.2%202.7zM48%20136.5V421.2l120-45.7V90.8L48%20136.5zM360%20422.7V137.3l-144-48V374.7l144%2048zm48-1.5l120-45.7V90.8L408%20136.5V421.2z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "map-pin-2",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20320%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M16%20144a144%20144%200%201%201%20288%200A144%20144%200%201%201%2016%20144zM160%2080c8.8%200%2016-7.2%2016-16s-7.2-16-16-16c-53%200-96%2043-96%2096c0%208.8%207.2%2016%2016%2016s16-7.2%2016-16c0-35.3%2028.7-64%2064-64zM128%20480V317.1c10.4%201.9%2021.1%202.9%2032%202.9s21.6-1%2032-2.9V480c0%2017.7-14.3%2032-32%2032s-32-14.3-32-32z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "map-pin-1",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20320%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M16%20144a144%20144%200%201%201%20288%200A144%20144%200%201%201%2016%20144zM160%2080c8.8%200%2016-7.2%2016-16s-7.2-16-16-16c-53%200-96%2043-96%2096c0%208.8%207.2%2016%2016%2016s16-7.2%2016-16c0-35.3%2028.7-64%2064-64zM128%20480V317.1c10.4%201.9%2021.1%202.9%2032%202.9s21.6-1%2032-2.9V480c0%2017.7-14.3%2032-32%2032s-32-14.3-32-32z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "map-pin",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20320%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M16%20144a144%20144%200%201%201%20288%200A144%20144%200%201%201%2016%20144zM160%2080c8.8%200%2016-7.2%2016-16s-7.2-16-16-16c-53%200-96%2043-96%2096c0%208.8%207.2%2016%2016%2016s16-7.2%2016-16c0-35.3%2028.7-64%2064-64zM128%20480V317.1c10.4%201.9%2021.1%202.9%2032%202.9s21.6-1%2032-2.9V480c0%2017.7-14.3%2032-32%2032s-32-14.3-32-32z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "Регион",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20576%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M346.3%20271.8l-60.1-21.9L214%20448H32c-17.7%200-32%2014.3-32%2032s14.3%2032%2032%2032H544c17.7%200%2032-14.3%2032-32s-14.3-32-32-32H282.1l64.1-176.2zm121.1-.2l-3.3%209.1%2067.7%2024.6c18.1%206.6%2038-4.2%2039.6-23.4c6.5-78.5-23.9-155.5-80.8-208.5c2%208%203.2%2016.3%203.4%2024.8l.2%206c1.8%2057-7.3%20113.8-26.8%20167.4zM462%2099.1c-1.1-34.4-22.5-64.8-54.4-77.4c-.9-.4-1.9-.7-2.8-1.1c-33-11.7-69.8-2.4-93.1%2023.8l-4%204.5C272.4%2088.3%20245%20134.2%20226.8%20184l-3.3%209.1L434%20269.7l3.3-9.1c18.1-49.8%2026.6-102.5%2024.9-155.5l-.2-6zM107.2%20112.9c-11.1%2015.7-2.8%2036.8%2015.3%2043.4l71%2025.8%203.3-9.1c19.5-53.6%2049.1-103%2087.1-145.5l4-4.5c6.2-6.9%2013.1-13%2020.5-18.2c-79.6%202.5-154.7%2042.2-201.2%20108z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "Государство",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20496%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M287.6%2054.2c-10.8-2.2-22.1-3.3-33.5-3.6V32.4c78.1%202.2%20146.1%2044%20184.6%20106.6l-15.8%209.1c-6.1-9.7-12.7-18.8-20.2-27.1l-18%2015.5c-26-29.6-61.4-50.7-101.9-58.4l4.8-23.9zM53.4%20322.4l23-7.7c-6.4-18.3-10-38.2-10-58.7s3.3-40.4%209.7-58.7l-22.7-7.7c3.6-10.8%208.3-21.3%2013.6-31l-15.8-9.1C34%20181%2024.1%20217.5%2024.1%20256s10%2075%2027.1%20106.6l15.8-9.1c-5.3-10-9.7-20.3-13.6-31.1zM213.1%20434c-40.4-8-75.8-29.1-101.9-58.7l-18%2015.8c-7.5-8.6-14.4-17.7-20.2-27.4l-16%209.4c38.5%2062.3%20106.8%20104.3%20184.9%20106.6v-18.3c-11.3-.3-22.7-1.7-33.5-3.6l4.7-23.8zM93.3%20120.9l18%2015.5c26-29.6%2061.4-50.7%20101.9-58.4l-4.7-23.8c10.8-2.2%2022.1-3.3%2033.5-3.6V32.4C163.9%2034.6%2095.9%2076.4%2057.4%20139l15.8%209.1c6-9.7%2012.6-18.9%2020.1-27.2zm309.4%20270.2l-18-15.8c-26%2029.6-61.4%2050.7-101.9%2058.7l4.7%2023.8c-10.8%201.9-22.1%203.3-33.5%203.6v18.3c78.1-2.2%20146.4-44.3%20184.9-106.6l-16.1-9.4c-5.7%209.7-12.6%2018.8-20.1%2027.4zM496%20256c0%20137-111%20248-248%20248S0%20393%200%20256%20111%208%20248%208s248%20111%20248%20248zm-12.2%200c0-130.1-105.7-235.8-235.8-235.8S12.2%20125.9%2012.2%20256%20117.9%20491.8%20248%20491.8%20483.8%20386.1%20483.8%20256zm-39-106.6l-15.8%209.1c5.3%209.7%2010%2020.2%2013.6%2031l-22.7%207.7c6.4%2018.3%209.7%2038.2%209.7%2058.7s-3.6%2040.4-10%2058.7l23%207.7c-3.9%2010.8-8.3%2021-13.6%2031l15.8%209.1C462%20331%20471.9%20294.5%20471.9%20256s-9.9-75-27.1-106.6zm-183%20177.7c16.3-3.3%2030.4-11.6%2040.7-23.5l51.2%2044.8c11.9-13.6%2021.3-29.3%2027.1-46.8l-64.2-22.1c2.5-7.5%203.9-15.2%203.9-23.5s-1.4-16.1-3.9-23.5l64.5-22.1c-6.1-17.4-15.5-33.2-27.4-46.8l-51.2%2044.8c-10.2-11.9-24.4-20.5-40.7-23.8l13.3-66.4c-8.6-1.9-17.7-2.8-27.1-2.8-9.4%200-18.5.8-27.1%202.8l13.3%2066.4c-16.3%203.3-30.4%2011.9-40.7%2023.8l-51.2-44.8c-11.9%2013.6-21.3%2029.3-27.4%2046.8l64.5%2022.1c-2.5%207.5-3.9%2015.2-3.9%2023.5s1.4%2016.1%203.9%2023.5l-64.2%2022.1c5.8%2017.4%2015.2%2033.2%2027.1%2046.8l51.2-44.8c10.2%2011.9%2024.4%2020.2%2040.7%2023.5l-13.3%2066.7c8.6%201.7%2017.7%202.8%2027.1%202.8%209.4%200%2018.5-1.1%2027.1-2.8l-13.3-66.7z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "Город",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20640%20512%22%20fill%3D%22%23b0b0b0%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M480%2048c0-26.5-21.5-48-48-48H336c-26.5%200-48%2021.5-48%2048V96H224V24c0-13.3-10.7-24-24-24s-24%2010.7-24%2024V96H112V24c0-13.3-10.7-24-24-24S64%2010.7%2064%2024V96H48C21.5%2096%200%20117.5%200%20144v96V464c0%2026.5%2021.5%2048%2048%2048H304h32%2096H592c26.5%200%2048-21.5%2048-48V240c0-26.5-21.5-48-48-48H480V48zm96%20320v32c0%208.8-7.2%2016-16%2016H528c-8.8%200-16-7.2-16-16V368c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016zM240%20416H208c-8.8%200-16-7.2-16-16V368c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016v32c0%208.8-7.2%2016-16%2016zM128%20400c0%208.8-7.2%2016-16%2016H80c-8.8%200-16-7.2-16-16V368c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016v32zM560%20256c8.8%200%2016%207.2%2016%2016v32c0%208.8-7.2%2016-16%2016H528c-8.8%200-16-7.2-16-16V272c0-8.8%207.2-16%2016-16h32zM256%20176v32c0%208.8-7.2%2016-16%2016H208c-8.8%200-16-7.2-16-16V176c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016zM112%20160c8.8%200%2016%207.2%2016%2016v32c0%208.8-7.2%2016-16%2016H80c-8.8%200-16-7.2-16-16V176c0-8.8%207.2-16%2016-16h32zM256%20304c0%208.8-7.2%2016-16%2016H208c-8.8%200-16-7.2-16-16V272c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016v32zM112%20320H80c-8.8%200-16-7.2-16-16V272c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016v32c0%208.8-7.2%2016-16%2016zm304-48v32c0%208.8-7.2%2016-16%2016H368c-8.8%200-16-7.2-16-16V272c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016zM400%2064c8.8%200%2016%207.2%2016%2016v32c0%208.8-7.2%2016-16%2016H368c-8.8%200-16-7.2-16-16V80c0-8.8%207.2-16%2016-16h32zm16%20112v32c0%208.8-7.2%2016-16%2016H368c-8.8%200-16-7.2-16-16V176c0-8.8%207.2-16%2016-16h32c8.8%200%2016%207.2%2016%2016z%22%2F%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "pinRed",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cpath%20fill%3D%22%23d23c3c%22%20d%3D%22M12%202a7%207%200%200%200-7%207c0%205.25%207%2013%207%2013s7-7.75%207-13a7%207%200%200%200-7-7m0%209.5A2.5%202.5%200%201%201%2012%206.5a2.5%202.5%200%200%201%200%205Z%22%2F%3E%0A%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "inCollections": true
+    },
+    {
+      "key": "pinBlue",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cpath%20fill%3D%22%233c62d2%22%20d%3D%22M12%202a7%207%200%200%200-7%207c0%205.25%207%2013%207%2013s7-7.75%207-13a7%207%200%200%200-7-7m0%209.5A2.5%202.5%200%201%201%2012%206.5a2.5%202.5%200%200%201%200%205Z%22%2F%3E%0A%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "inCollections": true
+    }
+  ],
+  "defaultIconKey": "pinRed",
+  "wheelZoomFactor": 1.1,
+  "panMouseButton": "left",
+  "hoverMaxWidth": 360,
+  "applyHoverPopoverSizeGlobally": false,
+  "hoverMaxHeight": 260,
+  "showLinkFileNameInTooltip": false,
+  "presets": [],
+  "stickerPresets": [],
+  "defaultWidth": "100%",
+  "defaultHeight": "480px",
+  "defaultResizable": false,
+  "defaultResizeHandle": "right",
+  "forcePopoverWithoutModKey": false,
+  "measureLineColor": "#2c4e37",
+  "measureLineWidth": 2,
+  "storageDefault": "json",
+  "defaultWidthWrapped": "50%",
+  "baseCollections": [],
+  "pinPlaceOpensEditor": false,
+  "libraryFilePath": "ZoomMap/library.json",
+  "faFolderPath": "DnD/Иконки для карт",
+  "customUnits": [],
+  "travelTimePresets": [],
+  "travelPerDay": {
+    "value": 8,
+    "unit": "h"
+  },
+  "travelRulesPacks": [
+    {
+      "id": "trp-boh9wi",
+      "name": "Default travel rules",
+      "enabled": false,
+      "customUnits": [],
+      "travelTimePresets": [],
+      "travelPerDay": {
+        "value": 8,
+        "unit": "h"
+      }
+    },
+    {
+      "id": "trp-jgod7k",
+      "name": "DnD",
+      "enabled": true,
+      "customUnits": [
+        {
+          "id": "cu-95ugxw",
+          "name": "Дней",
+          "abbreviation": "Дн",
+          "metersPerUnit": 1.524
+        }
+      ],
+      "terrains": [
+        {
+          "id": "ter-n2d6dl",
+          "name": "Дорога",
+          "factor": 1
+        },
+        {
+          "id": "ter-6860l3",
+          "name": "Трудно проходимая местность",
+          "factor": 0.5
+        }
+      ],
+      "travelTimePresets": [
+        {
+          "id": "tt-zzzclw",
+          "name": "Ходьба",
+          "distanceValue": 1,
+          "distanceUnit": "custom",
+          "timeValue": 8,
+          "timeUnit": "h",
+          "distanceCustomUnitId": "cu-95ugxw"
+        },
+        {
+          "id": "tt-npc11e",
+          "name": "Ездовая лошадь",
+          "distanceValue": 1,
+          "distanceUnit": "custom",
+          "timeValue": 4,
+          "timeUnit": "h",
+          "distanceCustomUnitId": "cu-95ugxw"
+        }
+      ],
+      "travelPerDayPresets": [
+        {
+          "id": "tpd-48rj4z",
+          "name": "Default",
+          "value": 8,
+          "unit": "h"
+        }
+      ],
+      "travelPerDay": {
+        "value": 8,
+        "unit": "h"
+      }
+    }
+  ],
+  "defaultScaleLikeSticker": false,
+  "enableDrawing": true,
+  "preferActiveLayerInEditor": false,
+  "enableTextLayers": true,
+  "enableMeasurePro": true,
+  "enableSessionImageCache": false,
+  "sessionImageCacheMb": 512,
+  "keepOverlaysLoaded": false,
+  "preferCanvasImagesWhenCaching": false,
+  "svgRasterMaxScale": 8,
+  "showImageIconPreviewInSettings": true,
+  "enableGrid": false,
+  "middleClickOpensLinkInNewTab": true,
+  "enableSecondScreen": false,
+  "secondScreenFolder": "ZoomMap/SecondScreen"
+}
