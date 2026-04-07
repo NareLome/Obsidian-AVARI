@@ -1,0 +1,173 @@
+{
+  "size": {
+    "w": 3840,
+    "h": 2160
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Государства",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_u2lch1",
+      "name": "Регионы",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_u9cuh2",
+      "name": "Города",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_3be8qj",
+      "x": 0.2706981755320083,
+      "y": 0.6266117676449396,
+      "layer": "default",
+      "link": "Гултсар",
+      "iconKey": "pinRed",
+      "tooltip": "Население ~7000",
+      "tooltipAlwaysOn": true,
+      "minZoom": 1
+    },
+    {
+      "type": "pin",
+      "id": "marker_gthbg2",
+      "x": 0.2020096433335456,
+      "y": 0.5478410521183229,
+      "layer": "default",
+      "link": "Эттерия",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "minZoom": 0.01,
+      "maxZoom": 0.4
+    },
+    {
+      "type": "pin",
+      "id": "marker_w5dixl",
+      "x": 0.26933620287348986,
+      "y": 0.5853433705646774,
+      "layer": "default",
+      "link": "Восточное побережье Этерии",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "minZoom": 0.4,
+      "maxZoom": 1
+    },
+    {
+      "type": "pin",
+      "id": "marker_q89qil",
+      "x": 0.17729303879631347,
+      "y": 0.2709564120852534,
+      "layer": "default",
+      "link": "Анаргон",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "minZoom": 0.01,
+      "maxZoom": 0.4
+    },
+    {
+      "type": "pin",
+      "id": "marker_irxn1l",
+      "x": 0.583005560018491,
+      "y": 0.8606011130391468,
+      "layer": "default",
+      "link": "Бронтенар",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "minZoom": 0.01,
+      "maxZoom": 0.4
+    },
+    {
+      "type": "pin",
+      "id": "marker_u3xwpt",
+      "x": 0.6980478011979294,
+      "y": 0.6653779158861607,
+      "layer": "default",
+      "link": "Вардария",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "minZoom": 0.01,
+      "maxZoom": 0.4
+    },
+    {
+      "type": "pin",
+      "id": "marker_suyilk",
+      "x": 0.131924637020272,
+      "y": 0.868262067391148,
+      "layer": "default",
+      "link": "Иксион",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "minZoom": 0.01,
+      "maxZoom": 0.4
+    },
+    {
+      "type": "pin",
+      "id": "marker_bf2hxg",
+      "x": 0.8836219621741253,
+      "y": 0.4934932260313663,
+      "layer": "default",
+      "link": "Росславия",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "minZoom": 0.01,
+      "maxZoom": 0.4
+    }
+  ],
+  "bases": [
+    {
+      "path": "DnD/Файлы/Карта мира AVARI.jpg",
+      "name": "Физическая карта мира"
+    },
+    {
+      "path": "DnD/Файлы/Карта мира AVARI (КЛИМАТИЧЕСКАЯ).jpg",
+      "name": "Климатическая карта мира"
+    },
+    {
+      "path": "DnD/Файлы/Карта мира AVARI (ПОЛИТИКА).jpg",
+      "name": "Политическая карта мира"
+    },
+    {
+      "path": "DnD/Файлы/Карта мира AVARI (ИСКОПАЕМЫЕ).jpg",
+      "name": "Ресурсная карта мира"
+    },
+    {
+      "path": "DnD/Файлы/Карта мира AVARI (ТЕКТОНИЧЕСКАЯ).jpg",
+      "name": "Тектоническая карта мира"
+    }
+  ],
+  "overlays": [
+    {
+      "path": "DnD/Файлы/Регион Гултсара.jpg",
+      "visible": false
+    }
+  ],
+  "activeBase": "DnD/Файлы/Карта мира AVARI.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "frame": {
+    "w": 1002,
+    "h": 506
+  }
+}

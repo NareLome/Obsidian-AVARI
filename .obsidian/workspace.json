@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DnD/0. Карты/Карта мира 2.0.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Карта мира 2.0"
             }
           }
         ]
@@ -103,7 +107,7 @@
       {
         "id": "3deafa63f6cb1e98",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "03562367de96f161",
@@ -133,7 +137,7 @@
                   "location": "ID_a98bdbb81a69"
                 },
                 "id": "ID_1818fbcaf849",
-                "child": "ID_c8397a0a7879"
+                "child": "ID_39e9a8391a88"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -296,13 +300,12 @@
               "title": "Структура"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "f5c05b73bbb14525",
         "type": "tabs",
-        "dimension": 48.74551971326164,
+        "dimension": 48.74551971326165,
         "children": [
           {
             "id": "2c69db8000315186",
@@ -334,19 +337,22 @@
         ]
       },
       {
-        "id": "b6b12b185854eb62",
+        "id": "71d19353e9ada383",
         "type": "tabs",
-        "dimension": 17.92114695340502,
+        "dimension": 17.921146953405017,
         "children": [
           {
-            "id": "dadb9d281f110a7b",
+            "id": "458d5971a3f45304",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "id": "ID_c8397a0a7879",
+                "calendar": "ID_08788a0b781a",
+                "id": "ID_39e9a8391a88",
                 "parent": "ID_1818fbcaf849"
               },
+              "pinned": true,
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
             }
@@ -355,7 +361,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 748.5
+    "width": 639.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -382,8 +388,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b5596dd291be37ef",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Этерия.md",
+    "DnD/0. Карты/Карта мира 2.0.md",
+    "DnD/5. Информация о мире/1. Государства/Эттерия.md",
+    "DnD/5. Информация о мире/2. Регионы/Восточное побережье Этерии.md",
+    "DnD/0. Карты/0.2 Карта Региона/0.2.1 Карта восточного побережья Этерии.md",
+    "DnD/5. Информация о мире/3. Города/Гултсар.md",
+    "DnD/Файлы/Регион Гултсара.jpg",
+    "DnD/Файлы/Карта мира AVARI.markers.json",
     "Спасбросок.md",
     "DnD/7. Музыка/Звуки/Дождь.mp3",
     "DnD/4. Бестиарий/Гуманоид/Чистокровный юань-ти.md",
@@ -396,7 +410,6 @@
     "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight Julie Elven - Will Against Will (hitmos.fm).mp3",
     "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight - The Spreading Eclipse (hitmos.fm).mp3",
     "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight - Planned Obsolescence (hitmos.fm).mp3",
-    "DnD/7. Музыка/Тропики/04_[БОЙ]/The Flight - Little Ones (hitmos.fm).mp3",
     "DnD/Шаблоны (Templates)/Вставить трек.md",
     "DnD/7. Музыка/[ПУСТЫНЯ]/01_[ФОН]/Фон 1 Hans Zimmer - House Atreides (hitmos.fm).jpg",
     "DnD/7. Музыка/[ПУСТЫНЯ]/01_[ФОН]/01_[ФОН].jpg",
@@ -418,16 +431,10 @@
     "SYNC/Test Sync.md",
     "DnD/1. Правила и Предметы/Автоматизация/Получить случайный предмет.md",
     "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Боевой посох.md",
-    "DnD/1. Правила и Предметы/Homebrew.md",
-    "DnD/1. Правила и Предметы/Автоматизация/Калькулятор монет.md",
-    "DnD/1. Правила и Предметы/Автоматизация/Калькулятор скорости передвижения.md",
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Случайный предмет.md",
-    "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Дубинка.md",
     "DnD/Файлы/Дубинка.jpg",
     "DnD/Файлы/Булава.jpg",
     "DnD/Файлы/Боевой посох.jpg",
     "DnD/Файлы/Карта мира AVARI (ПОЛИТИКА).jpg",
-    "DnD/Файлы/Гигантская змея.jpg",
-    "DnD/Файлы/Источник.jpg"
+    "DnD/Файлы/Гигантская змея.jpg"
   ]
 }

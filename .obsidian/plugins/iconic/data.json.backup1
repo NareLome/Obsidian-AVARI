@@ -30,101 +30,68 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Dungeons and Dragons (AVARI tales)/0. Карты": {
+    "DnD/0. Карты": {
       "icon": "🗺️",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы": {
+    "DnD/1. Правила и Предметы": {
       "icon": "📜",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация": {
-      "icon": "🧪",
-      "unsynced": [
-        "3f3537fcd56d0a2b"
-      ]
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Калькулятор монет.md": {
-      "icon": "💰"
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Калькулятор скорости передвижения.md": {
-      "icon": "🐎"
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Получить случайный предмет.md": {
-      "icon": "🎁"
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Предметы.base": {
-      "icon": "⛑️",
-      "unsynced": [
-        "3f3537fcd56d0a2b"
-      ]
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Глоссарий": {
-      "icon": "📑",
-      "unsynced": [
-        "3f3537fcd56d0a2b"
-      ]
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Механики игры": {
-      "icon": "❗",
-      "unsynced": [
-        "3f3537fcd56d0a2b"
-      ]
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Предметы": {
-      "icon": "🛡️",
-      "unsynced": [
-        "3f3537fcd56d0a2b"
-      ]
-    },
-    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие": {
-      "icon": "lucide-sword",
-      "unsynced": [
-        "3f3537fcd56d0a2b"
-      ]
-    },
-    "Dungeons and Dragons (AVARI tales)/2. Ссылки": {
+    "DnD/2. Ссылки": {
       "icon": "🔗",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/3. Листы персонажей": {
+    "DnD/3. Листы персонажей": {
       "icon": "🧙",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/4. Бестиарий": {
+    "DnD/4. Бестиарий": {
       "icon": "🐻",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/5. Информация о мире": {
+    "DnD/5. Информация о мире": {
       "icon": "ℹ️",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/6. Приключения": {
+    "DnD/6. Приключения": {
       "icon": "🐲",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/6. Приключения/Ваншоты": {
-      "icon": "🔥",
+    "DnD/7. Музыка": {
+      "icon": "🎵",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
     },
-    "Dungeons and Dragons (AVARI tales)/6. Приключения/Компейны": {
-      "icon": "🕑",
+    "DnD/История боя": {
+      "icon": "lucide-history",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/Файлы": {
+      "icon": "lucide-file",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "DnD/Шаблоны (Templates)": {
+      "icon": "lucide-book-template",
       "unsynced": [
         "3f3537fcd56d0a2b"
       ]
