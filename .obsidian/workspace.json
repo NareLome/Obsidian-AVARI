@@ -209,26 +209,22 @@
             }
           },
           {
-            "id": "ced7db2fb427bacd",
+            "id": "2217d0e874817515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons and Dragons (AVARI tales)/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "0.1.1 Физическая Карта мира"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "d9665a7039b1e4bb",
+            "id": "38d9e49947ec2789",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons and Dragons (AVARI tales)/Файлы/Токен для github-a.md",
+                "file": "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,25 +234,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Токен для github-a"
+              "title": "Обратные ссылки для 0.1.1 Физическая Карта мира"
             }
           },
           {
-            "id": "d0a728916a14b71a",
+            "id": "9e7a7b9f74007e60",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons and Dragons (AVARI tales)/Файлы/Токен для github-a.md",
+                "file": "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Токен для github-a"
+              "title": "Исходящие ссылки из 0.1.1 Физическая Карта мира"
             }
           },
           {
-            "id": "1d0b5d92cfcd16ef",
+            "id": "b1e52ab9cd3256bb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -271,7 +267,7 @@
             }
           },
           {
-            "id": "5dfbf600939a8a48",
+            "id": "5a304093dc758d1a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -285,17 +281,18 @@
             }
           },
           {
-            "id": "867422ce5f3c1622",
+            "id": "64040cba85248c48",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 0.1.1 Физическая Карта мира"
             }
           }
         ],
@@ -313,7 +310,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_cb0899cba9a8",
+                "creatureId": "ID_3bf98ad96929",
                 "creatureName": "Чистокровный юань-ти"
               },
               "pinned": true,
@@ -367,20 +364,22 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "iconic:Открыть свод правил": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "DnD/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Новый текстовый документ.txt",
     "DnD/6. Приключения/Компейны/🌊 Шепот семи оков/Глава 1. Первый источник/Часть 3. Первый источник (Храм).md",
     "DnD/6. Приключения/Компейны/🌊 Шепот семи оков/Глава 1. Первый источник/Часть 0. Вступление.md",
     "Obsidian-AVARI/README.md",
     "Obsidian-AVARI",
-    "README.md",
     "TEST",
     "TEST",
-    "conflict-files-obsidian-git.md",
     "Токен для github-a.md",
     "Легкое.md",
     "Замедляющее.md",
