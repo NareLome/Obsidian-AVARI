@@ -1,0 +1,512 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "📅 Календарь мира AVARI",
+      "description": "",
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": true,
+        "incrementDay": true,
+        "displayMoons": true,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "День Восхода",
+            "id": "ID_bb193aab1aaa",
+            "abbreviation": "Восход"
+          },
+          {
+            "type": "day",
+            "name": "День Раздумья",
+            "id": "ID_abe8c89b0999",
+            "abbreviation": "Раздумье"
+          },
+          {
+            "type": "day",
+            "name": "День Творчества",
+            "id": "ID_0ad9a8f9e95b",
+            "abbreviation": "Творчество"
+          },
+          {
+            "type": "day",
+            "name": "День Завершений",
+            "id": "ID_1a78cb79c8cb",
+            "abbreviation": "Завершение"
+          },
+          {
+            "type": "day",
+            "name": "День Угасания",
+            "id": "ID_68d93b4b5af9",
+            "abbreviation": "Угасание"
+          },
+          {
+            "type": "day",
+            "name": "День Сна",
+            "id": "ID_ebe89bfae84a",
+            "abbreviation": "Сон"
+          },
+          {
+            "type": "day",
+            "name": "День Увядания",
+            "id": "ID_98b9b98b7b09",
+            "abbreviation": "Увядание"
+          }
+        ],
+        "months": [
+          {
+            "name": "Хионора",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e9997a780b3a"
+          },
+          {
+            "name": "Вермидиана",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b8c9ebeb0b89"
+          },
+          {
+            "name": "Фолиора",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "Амарита",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "Вандориана",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "Эстириона",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "Цериаллона",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "Глумидора",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "Шадоувина",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "Бореалуса",
+            "type": "month",
+            "length": 13,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "Винтероса",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "Фестивуса",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_ba1bab4a3a28"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.5,
+            "offset": 14.5,
+            "faceColor": "#ffffff",
+            "shadowColor": "#424242",
+            "id": "ID_a9ab186b1819"
+          }
+        ],
+        "leapDays": [
+          {
+            "id": "ID_b91ad86a887a",
+            "name": "⚰️ День возрождения",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "intercalary": false,
+            "timespan": 0,
+            "offset": 1,
+            "type": "leapday"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Древней Эпохи",
+            "format": "{{era_name}}",
+            "id": "ID_9a2978c92baa",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "name": "Новой Эпохи",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_a8db38899a2b",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          }
+        ],
+        "offset": 0,
+        "padDays": 2,
+        "padMonths": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "STANDARD_WINTER",
+            "name": "❄️ Сезон полярных ветров",
+            "color": "#ADD8E6",
+            "kind": "Winter",
+            "type": "Periodic",
+            "duration": 39.0625,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "peak": 19.53125
+          },
+          {
+            "id": "STANDARD_SPRING",
+            "name": "🌸 Сезон пробуждения",
+            "kind": "Spring",
+            "color": "#90EE90",
+            "type": "Periodic",
+            "duration": 39.0625,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "peak": 19.53125
+          },
+          {
+            "id": "STANDARD_SUMMER",
+            "name": "☀️ Сезон засухи",
+            "kind": "Summer",
+            "color": "#FFFF00",
+            "type": "Periodic",
+            "duration": 39.0625,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "peak": 19.53125
+          },
+          {
+            "id": "STANDARD_AUTUMN",
+            "name": "🍂 Сезон увядания",
+            "kind": "Autumn",
+            "color": "#DAA520",
+            "type": "Periodic",
+            "duration": 39.0625,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "peak": 19.53125
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": 1955545517,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [
+          {
+            "name": "Гултсар (Север)",
+            "id": "ID_a98bdbb81a69",
+            "seasons": {
+              "STANDARD_WINTER": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    2,
+                    10
+                  ],
+                  "precipitationChance": 0.2,
+                  "precipitationIntensity": 0.2,
+                  "cloudy": 0.2,
+                  "windy": 0.5
+                }
+              },
+              "STANDARD_SPRING": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    6,
+                    19
+                  ],
+                  "precipitationChance": 0.5,
+                  "precipitationIntensity": 0.6,
+                  "cloudy": 0.6,
+                  "windy": 0.6
+                }
+              },
+              "STANDARD_SUMMER": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    18,
+                    28
+                  ],
+                  "precipitationChance": 0.8,
+                  "precipitationIntensity": 0.8,
+                  "cloudy": 0.8,
+                  "windy": 0.8
+                }
+              },
+              "STANDARD_AUTUMN": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    6,
+                    19
+                  ],
+                  "precipitationChance": 0.5,
+                  "precipitationIntensity": 0.4,
+                  "cloudy": 0.4,
+                  "windy": 0.4
+                }
+              }
+            }
+          },
+          {
+            "name": "Гултсар (Юг)",
+            "id": "ID_fb6b8aab6979",
+            "seasons": {
+              "STANDARD_WINTER": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    20,
+                    28
+                  ],
+                  "precipitationChance": 0.6,
+                  "precipitationIntensity": 0.8,
+                  "cloudy": 0.7,
+                  "windy": 0.5
+                }
+              },
+              "STANDARD_SPRING": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    24,
+                    29
+                  ],
+                  "precipitationChance": 0.7,
+                  "precipitationIntensity": 0.8,
+                  "cloudy": 0.7,
+                  "windy": 0.5
+                }
+              },
+              "STANDARD_SUMMER": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    22,
+                    30
+                  ],
+                  "precipitationChance": 0.85,
+                  "precipitationIntensity": 0.8,
+                  "cloudy": 0.8,
+                  "windy": 0.5
+                }
+              },
+              "STANDARD_AUTUMN": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Custom",
+                "weather": {
+                  "tempRange": [
+                    24,
+                    29
+                  ],
+                  "precipitationChance": 0.7,
+                  "precipitationIntensity": 0.8,
+                  "cloudy": 0.7,
+                  "windy": 0.5
+                }
+              }
+            }
+          }
+        ],
+        "defaultLocation": "NONE"
+      },
+      "current": {
+        "day": 2,
+        "month": 10,
+        "year": 93
+      },
+      "events": [
+        {
+          "name": "День зимнего солнцестояния",
+          "description": null,
+          "date": {
+            "month": 10,
+            "day": 22,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_1ac84b29e9d9",
+          "note": null,
+          "category": "ID_9b2a499beb8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "День начала приключений",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 10,
+            "year": [
+              93,
+              null
+            ]
+          },
+          "id": "ID_58fb4928f819",
+          "note": null,
+          "category": "ID_485bfa3aeb89",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "id": "ID_08788a0b781a",
+      "categories": [
+        {
+          "id": "ID_9b2a499beb8b",
+          "color": "#5fce61",
+          "name": "🍃 Природные"
+        },
+        {
+          "id": "ID_485bfa3aeb89",
+          "color": "#bc7edd",
+          "name": "🧙 Приключенцы"
+        }
+      ],
+      "dateFormat": "DD - MMMM - Y"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_08788a0b781a",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

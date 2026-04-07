@@ -1,0 +1,421 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "404e580d42e68863",
+    "type": "split",
+    "children": [
+      {
+        "id": "954e25dbce3ebf29",
+        "type": "tabs",
+        "dimension": 81.3780260707635,
+        "children": [
+          {
+            "id": "8e9bab5c91e992c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7911b3b99f4e2b10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Шаблон",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "1d70066e635ff14f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      },
+      {
+        "id": "21d447dcdea51b98",
+        "type": "tabs",
+        "dimension": 18.6219739292365,
+        "children": [
+          {
+            "id": "1fe733afa8975009",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5150947570801
+  },
+  "right": {
+    "id": "6b49f59a454dfc99",
+    "type": "split",
+    "children": [
+      {
+        "id": "3deafa63f6cb1e98",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "bd0c093359021101",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_08788a0b781a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 2,
+                    "month": 10,
+                    "year": 93
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 2,
+                    "month": 10,
+                    "year": 93
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_a98bdbb81a69"
+                },
+                "id": "ID_08ea3be91bf9",
+                "child": "ID_789af899bb7a"
+              },
+              "pinned": true,
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "05a82b3bf56d963f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "pinned": true,
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "1f444424e896b65e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calculite",
+              "state": {
+                "previousResult": null,
+                "previousOperator": null,
+                "previousInput": null,
+                "currentResult": null,
+                "currentOperator": null,
+                "currentInput": null,
+                "currentError": null
+              },
+              "pinned": true,
+              "icon": "lucide-calculator",
+              "title": "Calculite"
+            }
+          },
+          {
+            "id": "2ecde98965830898",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "pinned": true,
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "52b0083c68e13a17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-dnd.su-(2024)",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-book-marked",
+              "title": "DnD.su (2024)"
+            }
+          },
+          {
+            "id": "62c562e8deab1c0e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-ttg-(2024)",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-book-marked",
+              "title": "TTG (2024)"
+            }
+          },
+          {
+            "id": "ced7db2fb427bacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons and Dragons (AVARI tales)/0. Карты/0.1 Карта Мира/0.1.1 Физическая Карта мира.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0.1.1 Физическая Карта мира"
+            }
+          },
+          {
+            "id": "d9665a7039b1e4bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dungeons and Dragons (AVARI tales)/Файлы/Токен для github-a.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Токен для github-a"
+            }
+          },
+          {
+            "id": "d0a728916a14b71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dungeons and Dragons (AVARI tales)/Файлы/Токен для github-a.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Токен для github-a"
+            }
+          },
+          {
+            "id": "1d0b5d92cfcd16ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5dfbf600939a8a48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "867422ce5f3c1622",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f5c05b73bbb14525",
+        "type": "tabs",
+        "dimension": 48.74551971326164,
+        "children": [
+          {
+            "id": "2c69db8000315186",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_cb0899cba9a8",
+                "creatureName": "Чистокровный юань-ти"
+              },
+              "pinned": true,
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "608561889ad617a7",
+        "type": "tabs",
+        "dimension": 17.92114695340502,
+        "children": [
+          {
+            "id": "7d1dd98dca6f2013",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "id": "ID_789af899bb7a",
+                "parent": "ID_08ea3be91bf9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 748.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "obsidian-custom-frames:Open DnD.su (2024)": false,
+      "obsidian-custom-frames:Open TTG (2024)": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calculite:Show calculator": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "iconic:Открыть свод правил": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Новый текстовый документ.txt",
+    "DnD/6. Приключения/Компейны/🌊 Шепот семи оков/Глава 1. Первый источник/Часть 3. Первый источник (Храм).md",
+    "DnD/6. Приключения/Компейны/🌊 Шепот семи оков/Глава 1. Первый источник/Часть 0. Вступление.md",
+    "Obsidian-AVARI/README.md",
+    "Obsidian-AVARI",
+    "README.md",
+    "TEST",
+    "TEST",
+    "conflict-files-obsidian-git.md",
+    "Токен для github-a.md",
+    "Легкое.md",
+    "Замедляющее.md",
+    "TEST/Synkeed.md",
+    "TEST/README.md",
+    "TEST/Synk",
+    "Спасбросок.md",
+    "synk",
+    "synk/Synk.md",
+    "Dungeons and Dragons (AVARI tales)/Файлы/TEST/README.md",
+    "SYNC/Test Sync.md",
+    "SYNC",
+    "Dungeons and Dragons (AVARI tales)/Файлы/TEST",
+    "DnD/1. Правила и Предметы/Автоматизация/Предметы.base",
+    "DnD/1. Правила и Предметы/Автоматизация/Получить случайный предмет.md",
+    "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Боевой посох.md",
+    "DnD/1. Правила и Предметы/Homebrew.md",
+    "DnD/1. Правила и Предметы/Автоматизация/Калькулятор монет.md",
+    "DnD/1. Правила и Предметы/Автоматизация/Калькулятор скорости передвижения.md",
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Случайный предмет.md",
+    "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Дубинка.md",
+    "Опрокидывающее.md",
+    "DnD/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие/Булава.md",
+    "DnD/Файлы/Дубинка.jpg",
+    "Ослабляющее.md",
+    "DnD/Файлы/Булава.jpg",
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/🛡️ Предметы/Галерея предметов.md",
+    "Галерея предметов.base",
+    "DnD/Файлы/Боевой посох.jpg",
+    "DnD/Файлы/Карта мира AVARI (ПОЛИТИКА).jpg",
+    "DnD/Файлы/Гигантская змея.jpg",
+    "DnD/Файлы/Источник.jpg",
+    "DnD/Файлы/Гултсар (Карта).jpg",
+    "DnD/Файлы/Удав.jpg",
+    "DnD/Файлы/Чистокровный Юань-ти.jpg",
+    "Файлы/Гултсар.jpg"
+  ]
+}

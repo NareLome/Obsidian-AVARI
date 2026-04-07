@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Fancy-a-Story",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "accentColor": "#ff0000",
+  "enabledCssSnippets": [
+    "ITS-STATBLOCK-SNIPPET",
+    "supercharged-links-gen"
+  ]
+}

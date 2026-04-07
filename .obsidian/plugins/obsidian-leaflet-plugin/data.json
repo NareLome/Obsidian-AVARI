@@ -1,0 +1,320 @@
+{
+  "mapMarkers": [
+    {
+      "id": "UniqID111",
+      "lastAccessed": 1775475320259,
+      "markers": [
+        {
+          "id": "ID_3a0a7ba899fb",
+          "type": "Город",
+          "loc": [
+            1047.3577254587492,
+            2104.878109807145
+          ],
+          "link": "Гултсар",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Средний портовый город населением около 7500 разумных",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aa939d8f89a",
+          "type": "default",
+          "loc": [
+            763.5682151935458,
+            2077.904943149639
+          ],
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7063945557510373,
+            -0.48928342805787517
+          ],
+          "description": "Южный выход из города перекрыт Адептами. Требуется: Знак отличия чтобы пройти",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da89a8989889",
+          "type": "default",
+          "loc": [
+            502.78506398803563,
+            2460.4623919765295
+          ],
+          "link": "Змеиная лощина",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8364469433755178,
+            -0.3221773703898978
+          ],
+          "description": "Логово Юань-ти Змеиной лощины",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_188aa9db9a39",
+          "type": "default",
+          "loc": [
+            513.3981852547382,
+            1707.6069766792116
+          ],
+          "link": "Элиас",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Подозрительный старик. Элиас",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8dbabb889b9",
+          "type": "default",
+          "loc": [
+            1962.2908617938847,
+            1674
+          ],
+          "link": "Трактир - На распутье",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5690849767818656,
+            -1.2574074988988222
+          ],
+          "description": "Хозяин трактира - Вайз Уютный Очаг (Полурослик)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49dadb08d978",
+          "type": "default",
+          "loc": [
+            541.0454564505045,
+            2987.8084378777758
+          ],
+          "link": "Мистический залив",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0157209650527697,
+            -0.34669407447786377
+          ],
+          "description": "Залив, где открылся подводный храм акульих отродий. Тут находится первый Источник",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebca69296b7a",
+          "type": "default",
+          "loc": [
+            1910.1909026063413,
+            2021.2338736173053
+          ],
+          "link": "Ядовитый берег",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6871289319224759,
+            -1.224022601353689
+          ],
+          "description": "Клан Юань-ти Ядовитого берега",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58c8594879ba",
+          "type": "default",
+          "loc": [
+            656.854523326374,
+            1355.4254357395296
+          ],
+          "link": "Белые плащи",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4607839024058425,
+            -0.4209028434047452
+          ],
+          "description": "Полевой лагерь Белых плащей. Дезиртиры из Магистрата",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a79d948eb78",
+          "type": "default",
+          "loc": [
+            2104.854523326374,
+            1149.6168757555515
+          ],
+          "link": "Долина мертвых",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3908182156794438,
+            -1.3487602237020908
+          ],
+          "description": "Разломы в земле из которых выходит древняя нежить",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a828a9c9f80a",
+          "type": "default",
+          "loc": [
+            1963.187102124323,
+            1401.6060952579471
+          ],
+          "link": "Духи павших воинов",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Воины прошлого в виде духов.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa0a7b0aca99",
+          "type": "default",
+          "loc": [
+            203.17773601135764,
+            635.4831987569835
+          ],
+          "link": "Карга",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Домик Карги",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bb859cb4aa9",
+          "type": "default",
+          "loc": [
+            522.449130071776,
+            1017.1502985877299
+          ],
+          "link": "Солёные топи",
+          "layer": "%5B%5B%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%D0%B0.jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3457855161621661,
+            -0.3347778184855147
+          ],
+          "description": "Раньше тут был густой тропический лес. Теперь это место больше похоже на болото",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dungeons and Dragons (AVARI tales)/0. 🗺️Карты/0.2 Карта Региона/0.2.1 Карта восточного побережья Этерии.md"
+      ]
+    },
+    {
+      "id": "UniqID9999",
+      "lastAccessed": 1775478114285,
+      "markers": [
+        {
+          "id": "ID_eb5a0b5b7b48",
+          "type": "default",
+          "loc": [
+            268.09550928697035,
+            2087.477976250035
+          ],
+          "link": "Трущобы Гултсара",
+          "layer": "%5B%5B%D0%93%D1%83%D0%BB%D1%82%D1%81%D0%B0%D1%80%20(%D0%9A%D0%B0%D1%80%D1%82%D0%B0).jpg%7C%D0%98%D0%BC%D1%8F%20%D1%81%D0%BB%D0%BE%D1%8F%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Город",
+      "iconName": "house-user",
+      "color": "#6f9fec",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

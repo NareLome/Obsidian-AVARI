@@ -1,0 +1,139 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "maxBackups": 5,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Dungeons and Dragons (AVARI tales)/0. Карты": {
+      "icon": "🗺️",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы": {
+      "icon": "📜",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация": {
+      "icon": "🧪",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Калькулятор монет.md": {
+      "icon": "💰"
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Калькулятор скорости передвижения.md": {
+      "icon": "🐎"
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Получить случайный предмет.md": {
+      "icon": "🎁"
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Автоматизация/Предметы.base": {
+      "icon": "⛑️",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Глоссарий": {
+      "icon": "📑",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Механики игры": {
+      "icon": "❗",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Предметы": {
+      "icon": "🛡️",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/1. Правила и Предметы/Предметы/1. Не магические/Простое рукопашное оружие": {
+      "icon": "lucide-sword",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/2. Ссылки": {
+      "icon": "🔗",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/3. Листы персонажей": {
+      "icon": "🧙",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/4. Бестиарий": {
+      "icon": "🐻",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/5. Информация о мире": {
+      "icon": "ℹ️",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/6. Приключения": {
+      "icon": "🐲",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/6. Приключения/Ваншоты": {
+      "icon": "🔥",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    },
+    "Dungeons and Dragons (AVARI tales)/6. Приключения/Компейны": {
+      "icon": "🕑",
+      "unsynced": [
+        "3f3537fcd56d0a2b"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

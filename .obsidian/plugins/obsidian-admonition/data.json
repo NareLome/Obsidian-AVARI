@@ -1,0 +1,45 @@
+{
+  "userAdmonitions": {
+    "длямастера": {
+      "type": "длямастера",
+      "color": "128, 255, 136",
+      "icon": {
+        "name": "hat-wizard",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Для Мастера",
+      "iconWithCss": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "дляигроков": {
+      "type": "дляигроков",
+      "color": "255, 221, 148",
+      "icon": {
+        "name": "beer",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Для игроков",
+      "iconWithCss": false,
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "11.0.3",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.758d00"
+}

@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: Не магические предметы
+    filters:
+      and:
+        - file.hasTag("НемагическийПредмет")
+    order:
+      - file.name
+      - Стоимость
+      - Вес
+      - Урон
+      - Свойство
+      - Мастерство
+    image: note.img
+    columnSize:
+      file.name: 111
+      note.Стоимость: 115
+      note.Вес: 94
+      note.Урон: 135
+      note.Свойство: 175
+    markers: number
+    separator: "      "
+    indentProperties: false
+    cardSize: 170
+    imageAspectRatio: 1

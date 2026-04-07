@@ -1,0 +1,41 @@
+{
+  "frames": [
+    {
+      "url": "https://next.dnd.su/class/?_gl=1*mu32jn*_ga*NDg5MzIyNDg0LjE3NDQ3ODkzNjU.*_ga_P6QSMG73H5*czE3NTYxNTU3MTEkbzk3JGcwJHQxNzU2MTU1NzExJGo2MCRsMCRoMA..",
+      "displayName": "DnD.su (2024)",
+      "icon": "book-marked",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://new.ttg.club/",
+      "displayName": "TTG (2024)",
+      "icon": "book-marked",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://youngdrug6666-ship-it.github.io/-dnd-translator-ru/",
+      "displayName": "Fantasy translator",
+      "icon": "type-outline",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
